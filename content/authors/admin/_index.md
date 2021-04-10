@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Colin Griffin
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Strength and Conditioning Coach, Lower-limb Rehabilitation Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Sports Surgery Clinic, Dublin
+- url: "www.sportssurgeryclinic.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Lower-limb njury rehabilitation
+- Biomechanics
+- Physiology
+- Sports Performancs and coaching
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Achilles tendinopathy rehabilitation and lower-limb biomechanics
+    institution: University Cote d'Azur
+    year: 2017-present
+  - course: MSc in Coaching and Exercise Science
+    institution: University College Dublin
+    year: 2016
+  - course: BA in Strength and Conditioning
+    institution: Setanta College
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:colingriffin50k@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/colingriffin
+- icon: ResearchGate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Colin-Griffin  
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/cgriffin50k  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "colingriffin50k@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a strength and conditioning coach based the Sports Surgery Clinic (SSC) in Dublin, where I am Clinical Lead for Foot and Ankle Rehabilitation. My role involves managing a clinical team and treating complex lower limb injuries. Combined with my clinical role, I am currently undertaking a PhD at the University of Côte d’Azur in France investigating Achilles tendinopathy rehabilitation and lower limb biomechanics.
+ 
+I have been working at the SSC since 2014. Prior to that I enjoyed a long career in elite sport as an Irish international athlete who competed at the 2008 and 2012 Olympic Games in the 50km Walk. Some of my career highlights included finishing 10th at the 2010 European Championships and 12th at the 2012 World Cup, as well as previously holding the Irish record for the 50km walk. Since retiring from my race walking career in 2013, I have been a regular participant in domestic road races with a marathon PB of 2.23.00 and half marathon 68.51. I also provides strength and conditioning support to some leading Irish athletes and coaches a number of distance runners. 
