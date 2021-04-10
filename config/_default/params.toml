@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "forest"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "colingriffin"
 
 ############################
 ## Regional Settings
@@ -262,8 +262,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyCcN-L47l85jUf1FDlgxIAEenUjUjVk9Lw"
   zoom = 15
 
 ############################
