@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Clinical Lead Foot and Ankle Rehabilitation"
+  company = "Sports Surgery Clinic"
+  company_url = "https://sportssurgeryclinic.com/smpage/home-2/"
+  location = "Dublin"
+  date_start = "2021-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Managing a clinical team for service development 
+  * Specialist rehabilitation of lower limb injuries
+  * Delivery of performance testing services 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Strength and Conditioning Coach"
+  company = "Sports Surgery Clinic"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Dublin"
+  date_start = "2014-02-01"
+  date_end = ""
+  description = """Exercise prescription for rehabilitationa nd performance."""
 
+[[experience]]
+  title = "Company director"
+  company = "The Altitude Centre Ireland"
+  company_url = ""
+  location = "Dublin"
+  date_start = "2011-11-01"
+  date_end = ""
+  description = """Distributer of patented simulated altitude training technology."""
+
+[[experience]]
+  title = "Guest lecturer"
+  company = "Setanta College"
+  company_url = "https://www.setantacollege.com/"
+  location = "Thurles"
+  date_start = "2019-02-01"
+  date_end = ""
+  description = """Tutor for the Endurance Module."""
 +++

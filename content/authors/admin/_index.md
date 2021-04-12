@@ -21,7 +21,7 @@ organizations:
 bio: I'm Colin Griffin and I work as a S&C coach specialising in the rehabilitation of lower limb injuires. My research interests include Achilles and calf injuiry rehab, biomechanics and running performance.
 
 interests:
-- Lower-limb njury rehabilitation
+- Lower-limb injury rehabilitation
 - Sports Performancs and coaching
 - Conference presentations and public speaking
 - Educational workshops 
